@@ -58,3 +58,4 @@
 57,php-cgi,Item from BadIPS
 58,proftpd,Item from BadIPS
 59,apache-dokuwiki,Item from BadIPS
+70,apache-dokuwikiki,Item from BadIPS
